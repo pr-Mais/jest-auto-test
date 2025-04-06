@@ -1,0 +1,20 @@
+{
+  "name": "jest-auto-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pr-Mais/jest-auto-test",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.1",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
